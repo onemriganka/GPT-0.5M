@@ -1,6 +1,12 @@
 # GPT-0.5m: character-Level GPT from Scratch
 
-A **tiny GPT model (~0.54M parameters)** built from scratch in **PyTorch**.  
+
+
+<img width="1024" height="1024" alt="gpt0 5m" src="https://github.com/user-attachments/assets/d2c23ca4-6688-48aa-ac45-2644731090b1" />
+
+
+
+A **tiny GPT model ( 0.54M parameters)** built from scratch in **PyTorch**.  
 This project demonstrates how to implement, train, and fine-tune a GPT-like Transformer on text data without relying on external frameworks.  
 
 It includes:
