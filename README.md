@@ -2,8 +2,9 @@
 
 
 
-<img width="1024" height="1024" alt="gpt0 5m" src="https://github.com/user-attachments/assets/d2c23ca4-6688-48aa-ac45-2644731090b1" />
 
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_oivfycoivfycoivf" src="https://github.com/user-attachments/assets/e6f4cc28-a15d-426b-8de0-ebb103474ddc" />
 
 
 A **tiny GPT model ( 0.54M parameters)** built from scratch in **PyTorch**.  
