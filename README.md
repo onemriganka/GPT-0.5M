@@ -6,7 +6,7 @@
 
 
 
-A **tiny GPT model ( 0.54M parameters)** built from scratch in **PyTorch**.  
+A **tiny GPT model ( 0.54M parameters)** built from scratch in **PyTorch** for educational purpose.  
 This project demonstrates how to implement, train, and fine-tune a GPT-like Transformer on text data without relying on external frameworks.  
 
 It includes:
